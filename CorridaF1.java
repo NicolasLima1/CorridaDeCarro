@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class prova01 {
+public class CorridaF1 {
 
     public static void main(String[] args) {
 
